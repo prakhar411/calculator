@@ -100,7 +100,7 @@ class _CalculatorHomePageState extends State<CalculatorHomePage> {
             style: TextStyle(
                 fontSize: fontSize,
                 fontWeight: FontWeight.bold,
-                color: Colors.white),
+                color: Colors.grey),
           ),
         ),
       ),
